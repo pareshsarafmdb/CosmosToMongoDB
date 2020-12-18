@@ -1,0 +1,10 @@
+ {
+ 	"source": {
+ 		"uri": "mongodb://mongodbtestparesh:dDGKEZk8YsJ5Oxo0KhjdHXt2Aeoue5Dl3bFiwgZBKgDqcDqRi2Pr6VG8rcls0gZc9YfUqFKKghFuZd3mecPSWw==@mongodbtestparesh.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&maxIdleTimeMS=120000&appName=@mongodbtestparesh@"
+ 	},
+ 	"destination": {
+
+ 		"uri": "mongodb+srv://main_user:pare1212@test.mk1cl.mongodb.net/test?retryWrites=true&w=majority"
+ 	},
+ 	"databases": []
+ }
